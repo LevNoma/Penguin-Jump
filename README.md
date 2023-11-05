@@ -1,2 +1,2 @@
 # Penguin-Jump Alpha
-This is Alpha
+распокуйте все жип и перетащите все в одну папку и там запустите файл Jumper.exe
