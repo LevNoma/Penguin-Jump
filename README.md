@@ -1,2 +1,2 @@
-# Penguin-Jump
+# Penguin-Jump Alpha
 This is Alpha
